@@ -14,4 +14,6 @@ My _Pixel Art Maker_!
 #### Project Overview
 Title: _"Pixel Art Maker"_
 
-> GitHub: link -
+> GitHub: link - https://github.com/albchia/Pixel-Art-Maker.git
+
+
