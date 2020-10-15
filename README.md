@@ -9,4 +9,4 @@ A single-page Web App to draw pixel art on a customizable canvas.
 This is the third project made during Udacity classroom on "Intro to Programming".
 
 #### Project Screenshot
-My _Giraffe Card_!
+My _Pixel Art Maker_!
