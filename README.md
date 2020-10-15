@@ -1,6 +1,10 @@
 # Pixel-Art-Maker
 A single-page Web App to draw pixel art on a customizable canvas.
 
+This was one of the projects I realized during the Udacity Path "Intro to Programming" Nanodegree.
+
+[See full project](https://albchia.github.io/Pixel-Art-Maker/)
+
 # Table of Contents
 - [About the Project](#About-the-Project)
 - Contributing
@@ -9,9 +13,9 @@ A single-page Web App to draw pixel art on a customizable canvas.
 This is the third project made during Udacity classroom on "Intro to Programming".
 
 #### Project Screenshot
-My _Pixel Art Maker_!
+Here a preview of my _Pixel Art Maker_!
 
-![pixel-art-maker-screenshot-I](https://user-images.githubusercontent.com/70691672/96121724-bd8ce700-0ef0-11eb-944b-5e07a9fb814d.PNG)
+![pixel-art-maker-screenshot-II](https://user-images.githubusercontent.com/70691672/96138919-8fae9f00-0efe-11eb-8683-eb9881e46bc0.PNG)
 
 #### Project Overview
 Title: _"Pixel Art Maker"_
