@@ -1,6 +1,10 @@
 # Pixel-Art-Maker
 A single-page Web App to draw pixel art on a customizable canvas.
 
+This was one of the projects I realized during the Udacity Path "Intro to Programming" Nanodegree.
+
+[See full project]
+
 # Table of Contents
 - [About the Project](#About-the-Project)
 - Contributing
