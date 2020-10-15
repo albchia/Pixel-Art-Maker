@@ -2,7 +2,7 @@
 A single-page Web App to draw pixel art on a customizable canvas.
 
 # Table of Contents
-- [About the Project](#About the Project)
+- [About the Project](#About-the-Project)
 - Contributing
 
 ## About the Project
