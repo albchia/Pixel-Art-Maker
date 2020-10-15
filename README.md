@@ -11,8 +11,6 @@ This is the third project made during Udacity classroom on "Intro to Programming
 #### Project Screenshot
 My _Pixel Art Maker_!
 
-![Pixel-Art-Maker](https://github.com/albchia/Pixel-Art-Maker/issues/3#issue-722229913)
-
 #### Project Overview
 Title: _"Pixel Art Maker"_
 
