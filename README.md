@@ -22,3 +22,7 @@ Title: _"Pixel Art Maker"_
 
 > GitHub: link - https://github.com/albchia/Pixel-Art-Maker.git
 
+For this project the task is to build a single-page web app that allows users to draw pixel art on a customizable canvas.
+
+It will be given a `starter code`, including `HTML` and `css`, to build the application. 
+
