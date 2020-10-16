@@ -29,5 +29,14 @@ The user should be able to:
 2. Choose a color
 3. Click a cell in the grid to fill that cell with the chosen color
 
+The primary task is to implement the `MakeGrid()` function, that dynamically creates a grid that user can interact with.
+
+#### _What skills needed?_
+In the project you will be use your `front-end programming` skills including:
+- Defining `variables` with `const` and `let`
+- Accessing the `DOM` using methods of the `document` object
+- Declaring `functions` and attaching them to the `DOM object` as event listeners
+- Writing `nested loops` and using `loop variables`
+
 
 
