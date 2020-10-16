@@ -31,7 +31,7 @@ The user should be able to:
 
 The primary task is to implement the `MakeGrid()` function, that dynamically creates a grid that user can interact with.
 
-####_What skills needed?_
+#### _What skills needed?_
 
 
 
