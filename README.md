@@ -22,7 +22,12 @@ Title: _"Pixel Art Maker"_
 
 > GitHub: link - https://github.com/albchia/Pixel-Art-Maker.git
 
-For this project the task is to build a single-page web app that allows users to draw pixel art on a customizable canvas.
+For this project the task is to build a single-page web app that allows users to draw pixel art on a customizable canvas. It will be given a `starter code`, including `HTML` and `css`, to build the application. Through the `javascript code` the user will create a `grid` of squares, representing their `design` and apply `colors` to those squares, to create a digital masterpiece.
 
-It will be given a `starter code`, including `HTML` and `css`, to build the application. 
+The user should be able to:
+1. Dynamically set the size of the `table` as `_N_` by `_M_` grid
+2. Choose a color
+3. Click a cell in the grid to fill that cell with the chosen color
+
+
 
