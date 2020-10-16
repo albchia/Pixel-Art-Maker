@@ -29,5 +29,9 @@ The user should be able to:
 2. Choose a color
 3. Click a cell in the grid to fill that cell with the chosen color
 
+The primary task is to implement the `MakeGrid()` function, that dynamically creates a grid that user can interact with.
+
+####_What skills needed?_
+
 
 
