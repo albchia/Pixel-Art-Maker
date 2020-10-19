@@ -42,6 +42,6 @@ In the project you will be use your `front-end programming` skills including:
 Starter code includes all required `HTML input fields`, as well as some basic styling. A skeleton of the `makeGrid()` function is provided.
 
 ##### _Development Strategy_
-Before writing
+Before writing any code, load up the starter project to see how things look. `Design.js` is implemented in the `<body>` tag in the `index.html` file.
 
-
+The
