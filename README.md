@@ -22,7 +22,7 @@ Title: _"Pixel Art Maker"_
 
 > GitHub: link - https://github.com/albchia/Pixel-Art-Maker.git
 
-For this project the task is to build a single-page web app that allows users to draw pixel art on a customizable canvas. It will be given a `starter code`, including `HTML` and `css`, to build the application. Through the `javascript code` the user will create a `grid` of squares, representing their `design` and apply `colors` to those squares, to create a digital masterpiece.
+For this project the task is to build a single-page web app that allows users to draw pixel art on a customizable canvas. It will be given a `starter code`, including `HTML` and `CSS`, to build the application. Through the `JavaScript code` the user will create a `grid` of squares, representing their `design` and apply `colors` to those squares, to create a digital masterpiece.
 
 The user should be able to:
 1. Dynamically set the size of the `table` as `_N_` by `_M_` grid
@@ -39,14 +39,14 @@ In the project you will be use your `front-end programming` skills including:
 - Writing `nested loops` and using `loop variables`
 
 #### Project Instructions
-Starter code includes all required `HTML input fields`, as well as some basic styling. A skeleton of the `makeGrid()` function is provided.
+Starter code includes all required `HTML` input fields, as well as some basic styling. A skeleton of the `makeGrid()` function is provided.
 
 ##### _Development Strategy_
-Before writing any code, load up the starter project to see how things look. `Design.js` is implemented in the `<body>` tag in the `index.html` file.
+Before writing any code, load up the starter project to see how things look. `design.js` is implemented in the `<body>` tag in the `index.html` file.
 
-The goal is to built out the `design.js` file to achieve all the interactive elements on the page. Opening `design.js`, keep these three tasks in mind:
-
-1. **Define your variables** by selecting the `DOM elements` that the user will interact with. This is where `js variables` come into play (these variables have to be accessed):
+The goal is to built out the `design.js` file to achieve all the interactive elements on the page. 
+Opening `design.js`, keep these three tasks in mind:
+1. **Define your variables** by selecting the `DOM elements` that the user will interact with. This is where js `variables` come into play (these variables have to be accessed):
       - `submit` button
       - `table`
       - `color picker`
