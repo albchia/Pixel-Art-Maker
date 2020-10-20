@@ -50,3 +50,11 @@ The goal is to built out the `design.js` file to achieve all the interactive ele
       - `submit` button
       - `table`
       - `color picker`
+      - The value of the `color selected` needs to be stored, since the clicked cell in the table needs to be set to the `selected color`
+2. **Add `event listener`** to the DOM elements, so that user input can be `color values` and `table sizes` can be dynamically set by user.
+3. **Set the `size` of the `cross stitch canvas`** as a `_N_` by `_M_` gridwith the `makeGrid()` function. Use the knowledge of js `loops` to dynamically clear and create the table based on user input. Each cell should have an `event listener` that sets the `background color` of the cell to the selected color.
+
+When all is done, you should be able to:
+- Create `canvas` of any size
+- Choose a color using a `color picker`
+- Click on the canva's table `cells` to set their color
