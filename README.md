@@ -58,3 +58,9 @@ When all is done, you should be able to:
 - Create `canvas` of any size
 - Choose a color using a `color picker`
 - Click on the canva's table `cells` to set their color
+
+## Contributing
+This repository is the project created by myself during the Udacity Program.
+Therefore, pull requests will not be accepted.
+
+> For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
