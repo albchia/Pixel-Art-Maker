@@ -45,7 +45,8 @@ Starter code includes all required `HTML input fields`, as well as some basic st
 Before writing any code, load up the starter project to see how things look. `Design.js` is implemented in the `<body>` tag in the `index.html` file.
 
 The goal is to built out the `design.js` file to achieve all the interactive elements on the page. Opening `design.js`, keep these three tasks in mind:
-**1. Define your variables** by selecting the `DOM elements` that the user will interact with. This is where `js variables` come into play (these variables have to be accessed):
+
+1. **Define your variables** by selecting the `DOM elements` that the user will interact with. This is where `js variables` come into play (these variables have to be accessed):
       - `submit` button
       - `table`
       - `color picker`
